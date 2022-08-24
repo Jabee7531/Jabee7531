@@ -1,6 +1,6 @@
 ### Hi there, I'm JaBee 👋
 
-📚 take a look at my repository
+📚 take a look at my repositories
 
 ⭐ Please give me star if you enjoyed
 
