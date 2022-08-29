@@ -1,9 +1,5 @@
 ### Hi there, I'm JaBee 👋
 
-📚 Take a look at my repositories
-
-⭐ Please give me star if you enjoyed
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabee7531)](https://github.com/jabee7531)
 
 📬️ Contacts
